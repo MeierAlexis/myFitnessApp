@@ -1,5 +1,6 @@
 import {TouchableOpacity, Text} from 'react-native';
 import styles from './styles';
+import React from 'react';
 
 const CTAButton = ({
   text = '',

@@ -1,6 +1,6 @@
-import {TouchableOpacity, Text, View} from 'react-native';
+import {Text, View} from 'react-native';
 import AntDesign from 'react-native-vector-icons/AntDesign';
-import styles from './styles';
+import React from 'react';
 
 const CustomIconButton = () => {
   return (
